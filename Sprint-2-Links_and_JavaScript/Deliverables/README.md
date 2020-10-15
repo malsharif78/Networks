@@ -1,10 +1,12 @@
 # Sprint 2 &ndash; Deliverables
 
 ## Honor Code
+on my honor, I have not given, nor recieved, nor witnessed any authorize assistance on this work
 
 Edit this section to include a statement of the Honor Code.
 
 ## Team Members
+Mohamed AL Sharif
 
 List the other members of your team here.
 
